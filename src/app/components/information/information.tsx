@@ -13,6 +13,9 @@ export function Info() {
       <div className="educational-info">
         <span>🎓</span>
         <span>Analysis and systems development Bachelors Degree | UFMG FACEC, Cianorte</span>
+      </div>
+      <div className="educational-info">
+        <span>🎓</span>
         <span>Advertising and marketing Bachelors Degree | Unicesumar, Maringá</span>
       </div>
     </div>
