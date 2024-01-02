@@ -8,7 +8,7 @@ const inter = Poppins({
 
 export const metadata = {
   title: 'Douglas H. de Souza',
-  description: 'Douglas H. de Souza is a front-end software engineer...',
+  description: 'Douglas H. de Souza é um desenvolvedor de software front-end...',
 }
 
 export default function RootLayout({
@@ -17,7 +17,7 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <html lang="en">
+    <html lang="pt-br">
       <body className={inter.className}>{children}</body>
     </html>
   )

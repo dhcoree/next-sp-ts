@@ -4,19 +4,19 @@ import "./information.scss"
 export function Info() {
   return (
     <div className="infos">
-      <SectionTitle text="Languages" />
+      <SectionTitle text="Idiomas" />
       <div className="languages-info">
-        <span>🇺🇸 EN - Writing & Reading</span>
-        <span>🇧🇷 PT-BR - Native Speaker</span>
+        <span>🇺🇸 EN - Escrita e Leitura</span>
+        <span>🇧🇷 PT-BR - Língua nativa</span>
       </div>
-      <SectionTitle text="Education" />
+      <SectionTitle text="Formação" />
       <div className="educational-info">
         <span>🎓</span>
-        <span>Analysis and systems development Bachelors Degree | UFMG FACEC, Cianorte</span>
+        <span>Análise e desenvolvimento de sistemas. Graduação ensino superior | UFMG FACEC, Cianorte</span>
       </div>
       <div className="educational-info">
         <span>🎓</span>
-        <span>Advertising and marketing Bachelors Degree | Unicesumar, Maringá</span>
+        <span>Publicidade e Propaganda. Graduação ensino superior | Unicesumar, Maringá</span>
       </div>
     </div>
   )
